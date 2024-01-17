@@ -4,3 +4,4 @@
 - Constructed an interactive dashboard in Tableau, integrating various data sets to visualize key marketing metrics and customer trends, supporting real-time decision-making.
 - Implemented advanced Google Analytics techniques for tracking user engagement, conversion rates, and campaign performance, enabling a deeper understanding of customer interactions.
 - Designed and targeted digital marketing campaigns using Google Ads, optimizing for specific keywords and demographics to maximize reach and effectiveness.
+- Tableau Dashboard at the following link: https://public.tableau.com/app/profile/alessandrosciorilli/viz/LongIslandHousing/LongIslandHousing
